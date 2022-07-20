@@ -15,3 +15,5 @@ The demo data are mp4s of the game [Supreme Comamnder: Forged Alliance](https://
 
 - [x] They use the same encoding
 - [x] They are of the same resolution
+
+The file [order.txt](data/order.txt) defines the order in which the files are concatenated.
