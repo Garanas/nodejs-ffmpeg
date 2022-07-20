@@ -11,7 +11,7 @@ The proof of concept relies on one library:
 
 ## Demo data
 
-The demo data are mp4s of the game [Supreme Comamnder: Forged Alliance](https://steamcommunity.com/app/9420), maintained by [Forged Alliance Forever](https://www.faforever.com/). Specifically, it is about [this pull request](https://github.com/FAForever/fa/pull/4040). The example works with any data, as long as:
+The demo data are mp4s of the game [Supreme Comamnder: Forged Alliance](https://steamcommunity.com/app/9420), maintained by [Forged Alliance Forever](https://www.faforever.com/). Specifically, it is about [this pull request](https://github.com/FAForever/fa/pull/4040). The example works out of the box with any data, as long as:
 
 - [x] They use the same encoding
 - [x] They are of the same resolution
