@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# default result file
+data/result.mp4
+package-lock.json
